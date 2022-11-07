@@ -4,5 +4,6 @@ public class Test {
 
         tiger.animalSound();
         tiger.animalSound("low");
+        tiger.animalSound("high");
     }
 }
